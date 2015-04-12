@@ -8,6 +8,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jbuilder', '~> 2.0'
 
+gem 'mysql2'
+gem 'better_errors'
+
 gem 'ransack'
 gem 'rails-assets-angular'
 gem 'rails-assets-angular-resource'
